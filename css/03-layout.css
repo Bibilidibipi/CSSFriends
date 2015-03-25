@@ -22,18 +22,14 @@
 .content-sidebar {
   display: inline-block;
   background-color: white;
-  /*border: 1px solid #ccc;*/
   min-height: 200px;
   float: left;
   width: 240px;
-  /*position: absolute;*/
 }
 
 .content-main {
-  /*position: absolute;*/
   display: inline-block;
   background-color: white;
-  /*border: 1px solid #ccc;*/
   min-height: 200px;
   width: 660px;
   float: right;
